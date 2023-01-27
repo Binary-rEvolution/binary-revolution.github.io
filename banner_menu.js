@@ -26,8 +26,7 @@ document.write(`
       <div class="container">
         <div class="row">
           <div class="cell-md-8">
-            <h2 class="text-white">5th Catalogue of High-Mass X-ray Binaries</h2>
-            <p class="text-white">From <i>INTEGRAL</i> to <i>Gaia</i> era</p>
+            <h2 class="text-white">An interface project for the study of binary stars</h2>
           </div>
         </div>
       </div>
@@ -39,10 +38,8 @@ document.write(`
           <button type="button" class="hamburger menu-down"><span class="line"></span><span class="line"></span><span class="line"></span></button>
           <ul class="app-bar-menu order-2 order-lg-1">
             <li><a href="index.html">Home</a></li>
-            <li><a href="catalog.html">Catalogue</a></li>
-            <li><a href="notes.html">Notes</a></li>
-            <li><a href="downloads.html">Downloads</a></li>
-            <li><a href="contributing.html">Contributing</a></li>
+            <li><a href="https://binary-revolution.github.io/HMXBwebcat5/index.html">HMXBcat5</a></li>
+            <li><a href="#">MESA simulations</a></li>
           </ul>
 
           <div class="app-bar-container ml-auto order-1 order-lg-2">
